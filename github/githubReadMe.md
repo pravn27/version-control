@@ -4,7 +4,7 @@
 
    - https://www.freecodecamp.org/news/git-cheat-sheet/
    - https://education.github.com/git-cheat-sheet-education.pdf
-   - https://github.com/pravn27/github-tutorial/tree/master
+   - https://github.com/pravn27/github-tutorial-refDoc
 
 2. ### Github Pages
 
